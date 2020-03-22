@@ -1,0 +1,13 @@
+house, casa
+dog, perro
+homework, tarea
+woman, mujer
+town, pueblo
+school, escuela
+cat, gato
+car, carro
+telephone, telefono
+univeristy, universidad
+gree, verde
+red, rojo
+black, negro
